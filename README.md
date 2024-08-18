@@ -60,10 +60,8 @@ The system is composed of three layers:
 
 This project was developed as part of the Distributed Systems course at Pontifical Xavierian University, presented by:
 
-- **Nicolas Quintana**
-- **Juan Esteban Granada**
-- **Hermann Hernandez**
-- **Nicolas Cerón**
+- Nicolas Cerón
+- Nicolas Quintana
+- Juan Esteban Granada
+- Hermann Hernandez
 
-### Professor:
-- **Osberth De Castro Cuevas**
