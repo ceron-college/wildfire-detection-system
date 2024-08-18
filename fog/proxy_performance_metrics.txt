@@ -1,0 +1,258 @@
+Total messages sent: 37
+Total bytes sent: 2524
+Average communication time: 0.0
+Standard deviation of communication time: 0.0
+Total alerts sent: 18
+
+Total messages sent: 90
+Total bytes sent: 6032
+Average communication time: 0.00014365779028998482
+Standard deviation of communication time: 0.0005745621955680149
+Total alerts sent: 43
+
+Total messages sent: 145
+Total bytes sent: 9675
+Average communication time: 0.00017058438268201104
+Standard deviation of communication time: 0.0006065670742847461
+Total alerts sent: 69
+
+Total messages sent: 213
+Total bytes sent: 14227
+Average communication time: 0.0002673567740570212
+Standard deviation of communication time: 0.000766072131872876
+Total alerts sent: 102
+
+Total messages sent: 263
+Total bytes sent: 17597
+Average communication time: 0.00031149795300153727
+Standard deviation of communication time: 0.0007966421661350205
+Total alerts sent: 126
+
+Total messages sent: 315
+Total bytes sent: 20973
+Average communication time: 0.0003266039348783947
+Standard deviation of communication time: 0.0008132294631349608
+Total alerts sent: 150
+
+Total messages sent: 388
+Total bytes sent: 25927
+Average communication time: 0.00034887458860259694
+Standard deviation of communication time: 0.000944467114749223
+Total alerts sent: 186
+
+Total messages sent: 445
+Total bytes sent: 29705
+Average communication time: 0.000344608071145047
+Standard deviation of communication time: 0.0009398385412436029
+Total alerts sent: 213
+
+Total messages sent: 497
+Total bytes sent: 33210
+Average communication time: 0.0003468256361287844
+Standard deviation of communication time: 0.000927154589545258
+Total alerts sent: 238
+
+Total messages sent: 564
+Total bytes sent: 37759
+Average communication time: 0.000350378506572534
+Standard deviation of communication time: 0.0009353463003753793
+Total alerts sent: 271
+
+Total messages sent: 611
+Total bytes sent: 40862
+Average communication time: 0.00034675582536113634
+Standard deviation of communication time: 0.0009212647208073576
+Total alerts sent: 293
+
+Total messages sent: 664
+Total bytes sent: 44370
+Average communication time: 0.00035759303943220394
+Standard deviation of communication time: 0.0009618552756443065
+Total alerts sent: 318
+
+Total messages sent: 730
+Total bytes sent: 48787
+Average communication time: 0.00036659959244401486
+Standard deviation of communication time: 0.0009569842671327977
+Total alerts sent: 350
+
+Total messages sent: 786
+Total bytes sent: 52562
+Average communication time: 0.0003519528391403703
+Standard deviation of communication time: 0.0009473790622187009
+Total alerts sent: 377
+
+Total messages sent: 839
+Total bytes sent: 56070
+Average communication time: 0.00034320652840106225
+Standard deviation of communication time: 0.0009368770144137853
+Total alerts sent: 402
+
+Total messages sent: 910
+Total bytes sent: 60889
+Average communication time: 0.000341950930081881
+Standard deviation of communication time: 0.0009332976700213246
+Total alerts sent: 437
+
+Total messages sent: 964
+Total bytes sent: 64529
+Average communication time: 0.00034068258966153095
+Standard deviation of communication time: 0.0009389917451668993
+Total alerts sent: 463
+
+Total messages sent: 1015
+Total bytes sent: 67902
+Average communication time: 0.0003438148592493217
+Standard deviation of communication time: 0.0009354024110932327
+Total alerts sent: 487
+
+Total messages sent: 1085
+Total bytes sent: 72589
+Average communication time: 0.00034578714502571915
+Standard deviation of communication time: 0.0009318460955570324
+Total alerts sent: 521
+
+Total messages sent: 1138
+Total bytes sent: 76097
+Average communication time: 0.0003517287896261902
+Standard deviation of communication time: 0.000936969232240732
+Total alerts sent: 546
+
+Total messages sent: 1186
+Total bytes sent: 79332
+Average communication time: 0.0003529157847618373
+Standard deviation of communication time: 0.0009367890342970398
+Total alerts sent: 569
+
+Total messages sent: 1259
+Total bytes sent: 84286
+Average communication time: 0.0003582395382397131
+Standard deviation of communication time: 0.0009295987612646465
+Total alerts sent: 605
+
+Total messages sent: 1319
+Total bytes sent: 88331
+Average communication time: 0.0003577334307828936
+Standard deviation of communication time: 0.0009250517716989273
+Total alerts sent: 634
+
+Total messages sent: 1374
+Total bytes sent: 91974
+Average communication time: 0.00035546752563210034
+Standard deviation of communication time: 0.0009247765989389613
+Total alerts sent: 660
+
+Total messages sent: 1451
+Total bytes sent: 97198
+Average communication time: 0.00035375253978390105
+Standard deviation of communication time: 0.000927007348556157
+Total alerts sent: 698
+
+Total messages sent: 1509
+Total bytes sent: 100979
+Average communication time: 0.0003548335207464523
+Standard deviation of communication time: 0.000933999112202541
+Total alerts sent: 725
+
+Total messages sent: 1561
+Total bytes sent: 104484
+Average communication time: 0.00035525880357838835
+Standard deviation of communication time: 0.0009400423596443725
+Total alerts sent: 750
+
+Total messages sent: 1624
+Total bytes sent: 108634
+Average communication time: 0.00036063893087979023
+Standard deviation of communication time: 0.0009511582261176382
+Total alerts sent: 780
+
+Total messages sent: 1682
+Total bytes sent: 112544
+Average communication time: 0.0003721892621089105
+Standard deviation of communication time: 0.000966357536598721
+Total alerts sent: 808
+
+Total messages sent: 1739
+Total bytes sent: 116322
+Average communication time: 0.00037681391487319005
+Standard deviation of communication time: 0.0009703548468880238
+Total alerts sent: 835
+
+Total messages sent: 1813
+Total bytes sent: 121279
+Average communication time: 0.00037940707051550165
+Standard deviation of communication time: 0.0009732204713641597
+Total alerts sent: 871
+
+Total messages sent: 1870
+Total bytes sent: 125057
+Average communication time: 0.0003772729220874807
+Standard deviation of communication time: 0.0009676520294029738
+Total alerts sent: 898
+
+Total messages sent: 1929
+Total bytes sent: 128970
+Average communication time: 0.0003787492333823007
+Standard deviation of communication time: 0.0009742271712927319
+Total alerts sent: 926
+
+Total messages sent: 1995
+Total bytes sent: 133387
+Average communication time: 0.00037634808915599545
+Standard deviation of communication time: 0.0009674224759973707
+Total alerts sent: 958
+
+Total messages sent: 2049
+Total bytes sent: 137027
+Average communication time: 0.0003781148781131802
+Standard deviation of communication time: 0.0009611644577265302
+Total alerts sent: 984
+
+Total messages sent: 2107
+Total bytes sent: 140937
+Average communication time: 0.0003810082785484629
+Standard deviation of communication time: 0.0009566912567082451
+Total alerts sent: 1012
+
+Total messages sent: 2162
+Total bytes sent: 144676
+Average communication time: 0.0003829268147612368
+Standard deviation of communication time: 0.0009703484708944193
+Total alerts sent: 1039
+
+Total messages sent: 2217
+Total bytes sent: 148319
+Average communication time: 0.00037968766329037914
+Standard deviation of communication time: 0.0009655488393964293
+Total alerts sent: 1065
+
+Total messages sent: 2277
+Total bytes sent: 152235
+Average communication time: 0.0003843403825856218
+Standard deviation of communication time: 0.0009756866939575727
+Total alerts sent: 1093
+
+Total messages sent: 2320
+Total bytes sent: 155035
+Average communication time: 0.0003903847316215778
+Standard deviation of communication time: 0.0009860269289851847
+Total alerts sent: 1113
+
+Total messages sent: 2382
+Total bytes sent: 159086
+Average communication time: 0.0003865258619627164
+Standard deviation of communication time: 0.0009777678727785476
+Total alerts sent: 1142
+
+Total messages sent: 2431
+Total bytes sent: 162324
+Average communication time: 0.0003877783547404959
+Standard deviation of communication time: 0.000977812887235494
+Total alerts sent: 1165
+
+Total messages sent: 2488
+Total bytes sent: 166198
+Average communication time: 0.00038698249712592394
+Standard deviation of communication time: 0.0009788035655789566
+Total alerts sent: 1193
+
