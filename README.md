@@ -1,4 +1,4 @@
-# Wildfire Detection Simulation
+# Wildfire Monitoring Simulation
 
 ## Overview
 
