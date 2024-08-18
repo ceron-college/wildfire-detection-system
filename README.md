@@ -1,8 +1,8 @@
-# Simulated Edge-Fog-Cloud Wildfire Detection
+# Wildfire Detection Simulation
 
 ## Overview
 
-This project focuses on the development of a distributed system that utilizes Edge, Fog, and Cloud computing concepts, implemented using ZeroMQ (zmq) for asynchronous messaging, and threading for concurrent task management, to simulate fault tolerance, capture, and analyze essential parameters for timely wildfire detection and prevention. The key parameters monitored include air temperature, smoke presence, and relative humidity.
+This project focuses on the development of a distributed system that utilizes *Edge, Fog, and Cloud* computing concepts, implemented using **ZeroMQ** (zmq) for asynchronous messaging, and threading for concurrent task management, to simulate fault tolerance, capture, and analyze essential parameters for timely wildfire detection and prevention. The key parameters monitored include air temperature, smoke presence, and relative humidity.
 
 The system is designed to detect temperature increases and environmental changes, notifying the quality system when values fall outside specified normal ranges. The implementation involves simulating sensors, developing communication components, storage, and computation mechanisms.
 
